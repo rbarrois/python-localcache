@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+# Copyright (c) 2012 Raphaël Barrois
 
 from distutils.core import setup
 from distutils import cmd
