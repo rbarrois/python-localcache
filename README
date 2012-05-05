@@ -1,0 +1,8 @@
+python-localcache
+=================
+
+
+This library allows caching locally a remote datasource, and synchronizing it with a remote entity.
+It includes a conflict resolution mechanism (local changes are kept separately from the remote state).
+
+The library should work with any kind of objects, with hooks to provide custom serialization methods.
